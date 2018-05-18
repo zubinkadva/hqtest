@@ -11,11 +11,11 @@
 	}*/
 
 	// Key for Google Vision API
-	$VISION_API_KEY = "AIzaSyDtLbMLpOwoE2Y3LnYqtoLeFCj2EJI0oN8";
+	$VISION_API_KEY = "";
 
 	// Keys for Google Custom Search URLs
-	$GCSE_API_KEY = "AIzaSyDtLbMLpOwoE2Y3LnYqtoLeFCj2EJI0oN8";
-	$GCSE_SEARCH_ENGINE_ID = "007324269943774541495:g_p2gafcwy8";
+	$GCSE_API_KEY = "";
+	$GCSE_SEARCH_ENGINE_ID = "";
 
 	// URL of hosted script
 	$HOST_URL = "www.url.com/screenshot.png";
